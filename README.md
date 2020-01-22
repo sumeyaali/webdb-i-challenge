@@ -42,7 +42,7 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?
 
 
 
-
+````````````
 ## Stretch Problems
 
 The following exercises **require research**, the concepts needed to complete them have not been covered in class yet.

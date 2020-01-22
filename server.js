@@ -1,7 +1,7 @@
 const express = require('express');
 
 const db = require('./data/dbConfig.js');
-const Router = require('./data/seeds/accountRouter');
+const Router = require('./accounts/accountRouter');
 const server = express();
 
 server.use(express.json());
